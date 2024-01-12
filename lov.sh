@@ -237,5 +237,5 @@ echo -e ""
 echo " Auto reboot in 10 Seconds "
 sleep 10
 rm -f ins.sh
-rm -f setup.sh
+rm -f lov.sh.sh
 reboot
