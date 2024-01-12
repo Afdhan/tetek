@@ -6,7 +6,7 @@ apt install python3 python3-pip unzip
 mkdir -p wsc
 cd wsc
 wget https://github.com/Afdhan/tetek/blob/main/pentil/susu/upil.zip
-rm -f upil.zip
+rm -rf upil.zip
 pip3 install -r wsc/requirements.txt
 pip3 install pillow
 
